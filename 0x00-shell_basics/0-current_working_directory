@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "current directory is '$pwd'"
+echo "current directory using pwd command"
+echo $(pwd)
